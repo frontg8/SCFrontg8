@@ -1,0 +1,6 @@
+module CFrontg8 [system] {
+  link "frontg8"
+  link "protobuf"
+  header "shim.h"
+  export *
+}
